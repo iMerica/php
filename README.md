@@ -1,6 +1,10 @@
 # LoadLab PHP
 PHP Client for the LoadLab REST API
 
+## Notes
+
+This library is currently WIP.
+
 ## Getting Started
 	
 	$ composer require loadlab/php
